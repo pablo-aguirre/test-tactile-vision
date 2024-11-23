@@ -11,7 +11,7 @@ import SwiftUI
 struct AR_Sync_TestApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainScreen()
         }
     }
 }
